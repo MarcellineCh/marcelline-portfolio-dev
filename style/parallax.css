@@ -81,4 +81,11 @@ h1 {
     right: 5px;
     width: 120%;
   }
+
+    #text {
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    padding-right: 200px;
+  }
 }
