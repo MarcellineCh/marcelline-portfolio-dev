@@ -53,4 +53,15 @@
         max-width: 80%; 
         height: auto; 
     }
+
+    .Icone {
+        width: 64px;
+        height: 64px;
+        object-fit: contain;
+        margin-top: 30px;
+    }
+
+    h2 {
+        margin-bottom: 40px;
+      }
 }
